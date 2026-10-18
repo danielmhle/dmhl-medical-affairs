@@ -27,4 +27,4 @@ For a project site, the relative page and asset links work under the repository 
 - Shared colors, typography, and responsive layout: `assets/site.css`
 - Mobile navigation and dashboard period selector: `assets/site.js`
 
-The SOPs are explicitly marked as editable drafts. Before operational use, replace example content with organization-approved procedures, references, owners, review steps, and effective dates. The dashboard uses wholly synthetic data for a fictional oncology product. Replace the sample contact address in `about.html` before publishing.
+The SOPs are explicitly marked as editable drafts. Before operational use, replace example content with organization-approved procedures, references, owners, review steps, and effective dates. The dashboard uses wholly synthetic data for a fictional oncology product. Contact details are maintained in `about.html`; update them there when changing the preferred contact address.
