@@ -1,6 +1,8 @@
 # Field Medical Excellence Demo Kit
 
-A responsive, static portfolio site for Daniel Le. The site uses plain HTML, CSS, and a small amount of JavaScript; it has no build step or framework dependency and can be hosted on GitHub Pages.
+A self-directed skills-development project by Daniel Le, built to strengthen practical capabilities for a future career in Medical Affairs, with a focus on field medical operations. The SOPs, dashboard, and framework are learning samples that demonstrate technical writing, process design, insight management, and CRM data-modeling concepts; they are not approved operational materials.
+
+The responsive site uses plain HTML, CSS, and a small amount of JavaScript. It has no build step or framework dependency and can be hosted on GitHub Pages.
 
 ## Preview locally
 
